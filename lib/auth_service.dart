@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
 class AuthService with ChangeNotifier {
-  static const dummyEmail = 'kosong1118@gmail.com';
-  static const dummyPassword = '123456';
+  static const dummyEmail = 'kosong1118@gmail.com'; //can change here
+  static const dummyPassword = '123456';  //can change here
   static const dummyPhoneNumber = '';
   static const dummyUserName = '';
-  static const dummySignUpEmail = 'signup@gmail.com';
-  static const dummySignUpPassword = '123456';
+  static const dummySignUpEmail = 'signup@gmail.com';  //can change here
+  static const dummySignUpPassword = '123456';  //can change here
 
   String? _userEmail;
   String? _userPhoneNumber;

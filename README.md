@@ -44,3 +44,10 @@ Launch an Emulator
 Run the Project
 Once the emulator is running, start your Flutter project with:
             flutter run
+
+Sign in
+Email: kosong1118@gmail.com
+Password: 123456
+
+Sign up: signup@gmail.com
+Password: 123456
