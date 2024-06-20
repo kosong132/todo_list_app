@@ -31,6 +31,18 @@ migrate_working_dir/
 .pub/
 /build/
 
+.dart_tool/
+.idea/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies.lock
+.metadata
+build/
+ios/Pods/
+.DS_Store
+.vscode/
+
 # Symbolication related
 app.*.symbols
 
