@@ -18,6 +18,10 @@ Before you begin, ensure you have the following installed:
    git clone https://github.com/kosong132/todo_list_app.git
    cd your-repo-name //open the file in vs code or android studio
 
+Run the following command in PowerShell/Terminal
+            cmd /c mklink
+If you see help information about the mklink command, symlink support is enabled.
+
 to Install Dependencies;
 Run the following command to install the required dependencies:
             flutter pub get 
